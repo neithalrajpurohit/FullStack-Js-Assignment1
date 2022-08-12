@@ -1,0 +1,125 @@
+*{
+margin-top: 10px;
+margin-left: 15px;
+}
+.navbar-container{
+    display:flex;
+}
+.list{
+    display: flex;
+    margin-left: 9rem;
+    list-style: none;
+    justify-content: space-between;
+    font-family: 'Orbitron';
+    font-size: 18px;
+}
+.list-item{
+    margin-left: 3.5rem;
+    padding-right: 2rem;
+}
+.list-items{
+    font-weight: bold;
+}
+.line{
+        background-color:black;
+        margin-top: 2rem;
+        position:absolute;
+        height:3px;
+        width: 50px;
+    }
+.button-group{
+    display: flex;
+    position: absolute;
+    right: 5rem;
+}
+.nav-button{
+    /* width:10rem;
+    height: 3rem; */
+    padding: 1px 27px;
+    font-size: 19px;
+    font-family:'poppins';
+    border: 2px solid black;
+    border-radius: 9px;
+    background-color: white;
+    color: grey;
+}
+.square{
+   position: absolute;
+   top: 26.5rem;
+   left: 14rem;
+   z-index: -1;
+}
+.star{
+    position: absolute;
+    right:5rem;
+    top:12rem;
+}
+.globe{
+    position: absolute;
+    top:7.5rem;
+    left:51rem;
+}
+ .hero{
+     margin-top: 5rem;
+     width: 35%;
+ }
+.hero-heading{
+    position: absolute;
+    font-family: 'Orbitron';
+    top:20rem;
+    right: 3rem;
+    font-size: 330%;
+}
+.hero-description{
+    position: absolute;
+    top:28rem;
+    left:46rem;
+    /* right: 8rem; */
+    text-align: center;
+    font-family: 'poppins';
+    font-size: 14px;
+    color:hsla(0, 0%, 50%, 0.959);
+}
+.button-email{
+    position: absolute;
+    top:36rem;
+    left:55rem;
+    font-size: 16px;
+    width:11rem; 
+    border: 2px solid black;
+    border-radius: 6px;
+    background-color: white;
+    color:gray;
+   font-family: 'Orbitron';
+}
+.button-join{
+    position: absolute;
+    top:36rem;
+    left:67rem;
+    font-size: 16px;
+   font-family: 'Orbitron';
+    border: 1px solid black !important;
+    border-radius: 5px;
+    background-color:black;
+    color: white;
+}
+.contact-heading{
+    position: absolute;
+    top:46rem;
+    font-family:'poppins';
+    font-weight: 300;
+    color: #808080;
+    font-size: 25px;
+    bottom: -8rem;
+    left:61rem;
+}
+.icons{
+    position: absolute;
+    bottom: -2rem;
+    left:55rem;
+}
+.stars{
+    position: absolute;
+    right:42rem;
+    top: 45rem;
+}
