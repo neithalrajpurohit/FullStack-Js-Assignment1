@@ -6,11 +6,9 @@
 ![HTML & CSS](https://img.shields.io/badge/HTML-CSS-orange)
 ![Live class](https://img.shields.io/badge/LIVE--CLASS-PROJECT--1-lightgrey)
 
-![name](https://img.shields.io/badge/Kaushal--Mehta-MCA--last--year-lightgrey)
-
 ## Project 1 [Live Link](https://live-proj-1.netlify.app/)
 
--   Skills Gained in this project
+-   Skills Gained during this assignment
     -   Briefly learnt how to use css positions [Relative & Absolute] property.
     -   Learned to create underline on navbar link 
 
