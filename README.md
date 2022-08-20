@@ -6,7 +6,7 @@
 ![HTML & CSS](https://img.shields.io/badge/HTML-CSS-orange)
 ![Live class](https://img.shields.io/badge/LIVE--CLASS-PROJECT--1-lightgrey)
 
-## Assignment 1 [Live Link]()
+## Assignment 1 [Live Link](liveassignment01.netlify.app)
 
 -   Skills Gained during this assignment
     -   Briefly learnt how to use css positions [Relative & Absolute] property.
